@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/barup/static/css/main.7e07c4bf.chunk.css",
-    "main.js": "/barup/static/js/main.5af02aa6.chunk.js",
-    "main.js.map": "/barup/static/js/main.5af02aa6.chunk.js.map",
+    "main.js": "/barup/static/js/main.4076dd48.chunk.js",
+    "main.js.map": "/barup/static/js/main.4076dd48.chunk.js.map",
     "runtime-main.js": "/barup/static/js/runtime-main.49fe8c19.js",
     "runtime-main.js.map": "/barup/static/js/runtime-main.49fe8c19.js.map",
     "static/js/2.e4514980.chunk.js": "/barup/static/js/2.e4514980.chunk.js",
     "static/js/2.e4514980.chunk.js.map": "/barup/static/js/2.e4514980.chunk.js.map",
     "index.html": "/barup/index.html",
-    "precache-manifest.7810d2a92054bec9c097f4a3ff61dd5b.js": "/barup/precache-manifest.7810d2a92054bec9c097f4a3ff61dd5b.js",
+    "precache-manifest.b0eba44fe34eb699d5bf93df2cca50e8.js": "/barup/precache-manifest.b0eba44fe34eb699d5bf93df2cca50e8.js",
     "service-worker.js": "/barup/service-worker.js",
     "static/css/main.7e07c4bf.chunk.css.map": "/barup/static/css/main.7e07c4bf.chunk.css.map",
     "static/js/2.e4514980.chunk.js.LICENSE.txt": "/barup/static/js/2.e4514980.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.49fe8c19.js",
     "static/js/2.e4514980.chunk.js",
     "static/css/main.7e07c4bf.chunk.css",
-    "static/js/main.5af02aa6.chunk.js"
+    "static/js/main.4076dd48.chunk.js"
   ]
 }

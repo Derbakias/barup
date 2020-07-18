@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38ac4b4420cd58293ac99740d28fc6d1",
+    "revision": "febe7147738ada694b83f85ce95f6a28",
     "url": "/barup/index.html"
   },
   {
-    "revision": "3e89a32c6fdfd3570172",
+    "revision": "3736c1865d0e5e9a48b3",
     "url": "/barup/static/css/main.7e07c4bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/barup/static/js/2.e4514980.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e89a32c6fdfd3570172",
-    "url": "/barup/static/js/main.5af02aa6.chunk.js"
+    "revision": "3736c1865d0e5e9a48b3",
+    "url": "/barup/static/js/main.4076dd48.chunk.js"
   },
   {
     "revision": "1a6b375ef44e5ba36db8",
